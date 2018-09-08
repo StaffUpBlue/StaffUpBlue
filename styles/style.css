@@ -3,7 +3,7 @@ body, html {
 }
 
 .content {
-  background-image: url("images/wave.jpg");
+  background-image: url("../images/wave.jpg");
 
       /* Full height */
     height: 100%;
